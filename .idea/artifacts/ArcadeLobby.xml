@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArcadeLobby">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="ArcadeLobby.jar">
+      <element id="module-output" name="ArcadeLobby" />
+    </root>
+  </artifact>
+</component>

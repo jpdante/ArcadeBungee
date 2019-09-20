@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SkyFall">
+    <output-path>$USER_HOME$/desktop/</output-path>
+    <root id="archive" name="SkyFall.jar">
+      <element id="module-output" name="SkyFall" />
+    </root>
+  </artifact>
+</component>
